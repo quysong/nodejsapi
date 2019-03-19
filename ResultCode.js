@@ -1,0 +1,5 @@
+module.exports={
+    SUCCESS:1,
+    ERR_ID_EMPTY:-1, //ID IS EMPTY
+    ERR_ID_NOTEXISTS:-2 //ID IS NOT EXISTS
+}
